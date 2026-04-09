@@ -1,4 +1,4 @@
-# 🟣 Roteiro Git — Grupo A / Squad Identidade Visual
+#  Roteiro Git — Grupo A / Squad Identidade Visual
 ### Atividade prática de versionamento com Git e GitHub
 
 ---
